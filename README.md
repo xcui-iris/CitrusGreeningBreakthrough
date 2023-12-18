@@ -1,9 +1,3 @@
-Beyond Citrus Greening: Technological Breakthrough and the Biological, Economic and Social Implications 
----
-title: "README"
-author: "Xiurui Cui"
-date: '2023-12-18'
----
 # Beyond Citrus Greening: Code Replication
 
 ## Description
